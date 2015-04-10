@@ -20,7 +20,9 @@ vagrant up
 If this works, then (perhaps after a long time downloading), a new
 VirtualBox window should appear and it will boot into a very
 stripped-down Windows environment with 2 windows and no start menu, task
-bar, system tray, etc.
+bar, system tray, etc. Once you have the Vagrant box downloaded, doing
+`vagrant up` is pretty quick -- it executes for me in less than 2
+minutes on my MacBook Pro with VirtualBox 4.3.26.
 
 ![Screenshot](screenshot.png)
 
