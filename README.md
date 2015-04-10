@@ -2,6 +2,26 @@
 
 https://vagrantcloud.com/msabramo/boxes/HyperVServer2012
 
+# What is Hyper-V Server 2012?
+
+From
+http://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2012-r2:
+
+> Hyper-V Server is a dedicated stand-alone product that contains the
+> hypervisor, Windows Server driver model, virtualization capabilities,
+> and supporting components such as failover clustering, but does not
+> contain the robust set of features and roles as the Windows Server
+> operating system. As a result, Hyper-V Server produces a small
+> footprint and requires minimal overhead. Organizations consolidating
+> servers where no new Windows Server licenses are required or where the
+> servers being consolidated are running an alternative OS may want to
+> consider Hyper-V Server.
+
+From http://blogs.technet.com/b/keithmayer/archive/2013/04/05/getting-started-with-hyper-v-server-2012-hyperv-virtualization-itpro.aspx:
+
+> Hyper-V Server 2012 is a FREE (yes, completely free!) purpose-built
+> product that includes the core of Windows Server 2012 and Hyper-V.
+
 # Prerequisites
 
 - [Vagrant][]
