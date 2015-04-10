@@ -1,4 +1,4 @@
-A lightweight VM with Microsoft Hyper-V Server 2012 R2
+# A lightweight [Vagrant][] VM with [Microsoft Hyper-V Server 2012 R2][Hyper-V Server]
 
 https://vagrantcloud.com/msabramo/boxes/HyperVServer2012
 
