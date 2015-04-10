@@ -4,8 +4,17 @@
 $script = <<'SCRIPT'
 # You can add PowerShell stuff here if you want...
 echo "Executing script in Vagrantfile..."
+
+# Uncomment this to install Cygwin (https://www.cygwin.com/)
 # choco install -y cyg-get
-# git clone ...
+
+# Uncomment this to install git
+# choco install -y git
+
+# Uncomment this to install PuTTY (http://www.chiark.greenend.org.uk/~sgtatham/putty/)
+# choco install -y putty
+
+# Browse more chocolatey packages at https://chocolatey.org/packages
 SCRIPT
 
 Vagrant.configure(2) do |config|
