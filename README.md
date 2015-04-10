@@ -2,6 +2,8 @@
 
 https://vagrantcloud.com/msabramo/boxes/HyperVServer2012
 
+Note: If you need a VM with SQL Server Express, you may want to checkout https://github.com/msabramo/vagrant_sql_server_express instead.
+
 # What is Hyper-V Server 2012?
 
 From
